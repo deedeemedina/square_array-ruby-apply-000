@@ -1,4 +1,4 @@
 def square_array(array)
-array.each { |numbers|  }
+array.each { |array|  }
 puts numbers
 end
