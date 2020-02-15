@@ -1,4 +1,5 @@
 def square_array(array)
-array.each { |array| i ** 2 }
+array.each { |array| }
+new_array = [array ** 2]
 puts array
 end
